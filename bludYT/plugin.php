@@ -25,7 +25,7 @@
             ';
         }
 
-        public function pageEnd() {
+        public function siteBodyEnd() {
           
             echo <<< END
 
